@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning AI Technologies
 - 💞️ I’m looking to collaborate on DL projets
-- 📫 How to reach me: https://www.linkedin.com/in/shantanu-kumar-092214250
+- 📫 How to reach me: <a herf="https://www.linkedin.com/in/shantanu-kumar-092214250">LinkedIn</a>
 - 😄 Pronouns: Batman
 - ⚡ Fun fact: I am also an EDM producer
 
